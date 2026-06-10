@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# production
+build/
+dist/
+
+# misc
+.DS_Store
+.env
+.env.*
+
+# TypeScript
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+
+# cache
+.cache/
+
+
