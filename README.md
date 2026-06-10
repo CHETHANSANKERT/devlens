@@ -1,2 +1,11 @@
-# devlens
-DevLens is a developer collaboration platform that helps teams manage issues, feature requests, user feedback, roadmaps, releases, and analytics in one place. Designed with a mobile-first experience, it enables developers, product managers, QA engineers, and stakeholders to build, track, and deliver better products faster.
+
+  # Mobile-First App Design
+
+  This is a code bundle for Mobile-First App Design. The original project is available at https://www.figma.com/design/XtiCCQeNM4IhYsFFDt2yTy/Mobile-First-App-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
